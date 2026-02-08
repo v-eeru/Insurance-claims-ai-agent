@@ -1,0 +1,22 @@
+{
+  "extractedFields": {
+    "Policy Number": "N/A",
+    "Policyholder Name": "N/A",
+    "Date of Loss": "N/A",
+    "Location": "N/A",
+    "Description of Accident": "N/A",
+    "Vehicle": "N/A",
+    "Estimated Damage": "N/A",
+    "Claim Type (damage or injury)": "N/A"
+  },
+  "missingFields": [
+    "Policy Number",
+    "Policyholder Name",
+    "Date of Loss",
+    "Location",
+    "Estimated Damage",
+    "Claim Type (damage or injury)"
+  ],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "Mandatory fields are missing"
+}

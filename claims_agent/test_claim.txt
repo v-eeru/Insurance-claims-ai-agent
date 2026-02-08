@@ -1,0 +1,11 @@
+Policy Number: POL123456
+Policyholder Name: John Smith
+Date of Loss: 12/01/2025
+Location: Dallas, Texas
+
+Description of Accident:
+Rear ended at traffic signal. Minor bumper damage.
+
+Vehicle: Toyota Camry 2022
+Estimated Damage: 15000
+Claim Type: damage
